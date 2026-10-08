@@ -108,14 +108,6 @@ const hodei = {
   <img src="https://streak-stats.demolab.com?user=hodeione&hide_border=true&background=0d0d0d&ring=c8ff00&fire=c8ff00&currStreakLabel=c8ff00&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e&locale=es" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hodeione&bg_color=0d0d0d&color=c8ff00&line=c8ff00&point=e6edf3&area=true&area_color=2e4a00&hide_border=true&custom_title=Actividad%20reciente" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hodeione&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</p>
-
 ---
 
 ## 🐍 Mis contribuciones
