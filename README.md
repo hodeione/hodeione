@@ -81,6 +81,20 @@ const hodei = {
     </td>
   </tr>
   <tr>
+    <td colspan="2" valign="top">
+      <a href="https://dht-seo-local.vercel.app"><img src="assets/seo.png" alt="Generador de SEO local" /></a>
+      <h3><a href="https://github.com/hodeione/dht-seo-local">📍 Generador de SEO local</a> · <sub>nuevo</sub></h3>
+      <p>Genera datos estructurados <b>Schema.org LocalBusiness</b> (horario partido, festivos, coordenadas leídas de un enlace de Google Maps) con <b>0 errores en el validador oficial</b>, vista previa de Google medida en píxeles y de WhatsApp, y guía para WordPress, Wix y Shopify.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Schema.org-JSON--LD-c8ff00?style=flat-square&labelColor=0d0d0d" />
+        <img src="https://img.shields.io/badge/SEO_local-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
+      </p>
+      <a href="https://dht-seo-local.vercel.app"><b>▶ Probar gratis</b></a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://h-com-bay.vercel.app"><img src="assets/dht.png" alt="DH Technology" /></a>
       <h3><a href="https://github.com/hodeione/H.com">DH Technology</a></h3>
