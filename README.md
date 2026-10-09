@@ -68,6 +68,21 @@ const hodei = {
   </tr>
   <tr>
     <td colspan="2" valign="top">
+      <a href="https://github.com/hodeione/reservas-n8n"><img src="assets/reservas-n8n.png" alt="Flujo de reservas en n8n" /></a>
+      <h3><a href="https://github.com/hodeione/reservas-n8n">🍽️ reservas-n8n</a> · <sub>automatización para restaurantes</sub></h3>
+      <p><b>Automatiza el ciclo completo de reservas de un restaurante con n8n:</b> reserva online con aforo por turno y ritmo de cocina, confirmación y recordatorio con «sí, voy / no puedo», <b>lista de espera que reasigna sola las mesas canceladas</b>, petición de reseña en Google, panel para la tableta del local, informe diario al dueño y API lista para un <b>recepcionista de IA por teléfono</b>.</p>
+      <p>7 flujos generados por código desde una librería común, Docker Compose (PostgreSQL + Caddy HTTPS), instalador de un comando y <b>43 pruebas de principio a fin</b> que verifican cada email y cada dato.</p>
+      <p>
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3><a href="https://github.com/hodeione/valida-es">✅ valida-es</a> · <sub>librería TypeScript</sub></h3>
       <p>Validación, formato y generación de <b>identificadores españoles</b>: DNI, NIE, CIF, NIF especiales, IBAN de 66 países, cuenta bancaria, Seguridad Social, teléfonos, códigos postales y matrículas. <b>Sin dependencias, ~6 KB gzip</b>, ESM y CommonJS con tipos, errores explicados en castellano y la función <code>identificar()</code>, que reconoce qué dato es.</p>
       <p>Módulo 97 exacto sin BigInt sobre números de 70 cifras, <b>pruebas de propiedades</b> (7.000 identificadores generados y mutados), TypeScript estricto, cobertura del 98 % e integración continua en Node 18 a 24.</p>
