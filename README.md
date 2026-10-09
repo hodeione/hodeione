@@ -66,6 +66,21 @@ const hodei = {
     </td>
   </tr>
   <tr>
+    <td colspan="2" valign="top">
+      <a href="https://dht-fotos.vercel.app"><img src="assets/fotos.png" alt="Optimizador de fotos para negocios" /></a>
+      <h3><a href="https://github.com/hodeione/dht-fotos">🖼️ Optimizador de fotos para negocios</a> · <sub>nuevo</sub></h3>
+      <p>Reduce el peso de las fotos hasta un 95 % con tamaños para web, Google e Instagram. Convierte <b>HEIC del iPhone</b>, genera WebP y AVIF, y <b>detecta y borra la ubicación GPS</b>. Todo con <b>WebAssembly y Web Workers</b> en el navegador: las fotos nunca se suben.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" />
+        <img src="https://img.shields.io/badge/Web_Workers-000?style=flat-square&logo=javascript" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      </p>
+      <a href="https://dht-fotos.vercel.app"><b>▶ Probar gratis</b></a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://h-com-bay.vercel.app"><img src="assets/dht.png" alt="DH Technology" /></a>
       <h3><a href="https://github.com/hodeione/H.com">DH Technology</a></h3>
@@ -140,6 +155,7 @@ const hodei = {
 
 <p align="center">
   <a href="https://h-com-bay.vercel.app"><img src="https://img.shields.io/badge/Web-DH_Technology-c8ff00?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0d0d0d" /></a>
+  <a href="https://www.linkedin.com/in/hodei-medina-escribano-9053b130b"><img src="https://img.shields.io/badge/LinkedIn-Hodei_Medina-c8ff00?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" /></a>
   <a href="https://github.com/hodeione"><img src="https://img.shields.io/badge/GitHub-hodeione-c8ff00?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" /></a>
 </p>
 
