@@ -68,12 +68,14 @@ const hodei = {
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <a href="https://github.com/hodeione/reservas-n8n"><img src="assets/reservas-n8n.png" alt="Flujo de reservas en n8n" /></a>
-      <h3><a href="https://github.com/hodeione/reservas-n8n">🍽️ reservas-n8n</a> · <sub>automatización para restaurantes</sub></h3>
-      <p><b>Automatiza el ciclo completo de reservas de un restaurante con n8n:</b> reserva online con aforo por turno y ritmo de cocina, confirmación y recordatorio con «sí, voy / no puedo», <b>lista de espera que reasigna sola las mesas canceladas</b>, petición de reseña en Google, panel para la tableta del local, informe diario al dueño y API lista para un <b>recepcionista de IA por teléfono</b>.</p>
-      <p>7 flujos generados por código desde una librería común, Docker Compose (PostgreSQL + Caddy HTTPS), instalador de un comando y <b>43 pruebas de principio a fin</b> que verifican cada email y cada dato.</p>
+      <a href="https://github.com/hodeione/reservas-n8n"><img src="assets/reservas-n8n.png" alt="Web del restaurante con carta en 3D" /></a>
+      <h3><a href="https://github.com/hodeione/reservas-n8n">🍽️ reservas-n8n</a> · <sub>reservas con plano de mesas y carta 3D</sub></h3>
+      <p><b>Web, reservas y carta digital para restaurantes, con n8n como backend:</b> el cliente <b>elige su mesa en el plano del local</b>, ve los platos <b>en 3D y en realidad aumentada</b> sobre su mesa, y recibe confirmación y recordatorio. La <b>lista de espera hereda sola las mesas canceladas</b>, se piden reseñas en Google y hay API para un <b>recepcionista de IA</b>. El restaurante lo gestiona todo desde un panel sin código: sala en vivo, editor del plano por arrastre, carta y horarios.</p>
+      <p>React + TypeScript, 7 flujos de n8n generados por código, Docker Compose (PostgreSQL + Caddy HTTPS) y <b>71 pruebas de principio a fin</b> que verifican cada email y cada dato.</p>
       <p>
         <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Three.js_·_AR-000000?style=flat-square&logo=threedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white" />
