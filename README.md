@@ -51,6 +51,22 @@ const hodei = {
 <table>
   <tr>
     <td colspan="2" valign="top">
+      <h3><a href="https://github.com/hodeione/valida-es">✅ valida-es</a> · <sub>librería TypeScript</sub></h3>
+      <p>Validación, formato y generación de <b>identificadores españoles</b>: DNI, NIE, CIF, NIF especiales, IBAN de 66 países, cuenta bancaria, Seguridad Social, teléfonos, códigos postales y matrículas. <b>Sin dependencias, ~6 KB gzip</b>, ESM y CommonJS con tipos, errores explicados en castellano y la función <code>identificar()</code>, que reconoce qué dato es.</p>
+      <p>Módulo 97 exacto sin BigInt sobre números de 70 cifras, <b>pruebas de propiedades</b> (7.000 identificadores generados y mutados), TypeScript estricto, cobertura del 98 % e integración continua en Node 18 a 24.</p>
+      <p>
+        <img src="https://github.com/hodeione/valida-es/actions/workflows/ci.yml/badge.svg" />
+        <img src="https://img.shields.io/badge/TypeScript-strict-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/dependencias-0-c8ff00?style=flat-square&labelColor=0d0d0d" />
+        <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+      </p>
+      <a href="https://hodeione.github.io/valida-es/"><img src="assets/valida-es.png" alt="Demostración de valida-es" /></a>
+      <a href="https://hodeione.github.io/valida-es/"><b>▶ Probar la demo</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <a href="https://dht-resenas.vercel.app"><img src="assets/resenas.png" alt="Kit de reseñas para Google" /></a>
       <h3><a href="https://github.com/hodeione/dht-resenas">⭐ Kit de reseñas para Google</a> · <sub>nuevo</sub></h3>
       <p>Herramienta gratuita para que los negocios locales consigan más reseñas en Google y las respondan bien: genera <b>carteles con QR en 5 formatos a 300 ppp</b>, mensajes y firma de email, y un <b>respondedor con IA (API de Claude)</b> que propone tres respuestas y avisa de riesgos legales o de privacidad.</p>
