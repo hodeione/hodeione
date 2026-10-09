@@ -53,12 +53,13 @@ const hodei = {
     <td colspan="2" valign="top">
       <a href="https://dht-resenas.vercel.app"><img src="assets/resenas.png" alt="Kit de reseñas para Google" /></a>
       <h3><a href="https://github.com/hodeione/dht-resenas">⭐ Kit de reseñas para Google</a> · <sub>nuevo</sub></h3>
-      <p>Herramienta gratuita para que los negocios locales consigan más reseñas en Google: valida el enlace, genera <b>carteles con QR en 5 formatos a 300 ppp</b>, mensajes de WhatsApp/SMS/email y firma de email. 100 % en el navegador, sin servidor ni cookies.</p>
+      <p>Herramienta gratuita para que los negocios locales consigan más reseñas en Google y las respondan bien: genera <b>carteles con QR en 5 formatos a 300 ppp</b>, mensajes y firma de email, y un <b>respondedor con IA (API de Claude)</b> que propone tres respuestas y avisa de riesgos legales o de privacidad.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Claude_API-c8ff00?style=flat-square&logo=anthropic&logoColor=black" />
         <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
       </p>
       <a href="https://dht-resenas.vercel.app"><b>▶ Probar gratis</b></a>
