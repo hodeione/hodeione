@@ -51,6 +51,23 @@ const hodei = {
 <table>
   <tr>
     <td colspan="2" valign="top">
+      <a href="https://susurro-ia.vercel.app"><img src="assets/susurro.png" alt="susurro transcribiendo una reunión" /></a>
+      <h3><a href="https://github.com/hodeione/susurro">🎙️ susurro</a> · <sub>IA en el navegador</sub></h3>
+      <p><b>Transcribe audio a texto con Whisper sin subirlo a ningún servidor.</b> El modelo de OpenAI corre dentro del navegador con <b>WebGPU</b> o WebAssembly multihilo: 56 s de audio en ~4 s (<b>14× tiempo real</b>). Audios de WhatsApp, reuniones y vídeos; grabación por micrófono; onda interactiva sincronizada con el texto; búsqueda, edición y exportación a TXT, SRT y VTT; traducción al inglés.</p>
+      <p>Troceado propio por silencios (energía RMS), inferencia en Web Worker con texto en streaming, precisión por dispositivo (int8 en CPU, fp16/q4 en GPU) y aislamiento COOP/COEP para hilos.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Whisper-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/transformers.js-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+        <img src="https://img.shields.io/badge/WebGPU-005A9C?style=flat-square&logo=webgl&logoColor=white" />
+        <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+      <a href="https://susurro-ia.vercel.app"><b>▶ Probar susurro</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3><a href="https://github.com/hodeione/valida-es">✅ valida-es</a> · <sub>librería TypeScript</sub></h3>
       <p>Validación, formato y generación de <b>identificadores españoles</b>: DNI, NIE, CIF, NIF especiales, IBAN de 66 países, cuenta bancaria, Seguridad Social, teléfonos, códigos postales y matrículas. <b>Sin dependencias, ~6 KB gzip</b>, ESM y CommonJS con tipos, errores explicados en castellano y la función <code>identificar()</code>, que reconoce qué dato es.</p>
       <p>Módulo 97 exacto sin BigInt sobre números de 70 cifras, <b>pruebas de propiedades</b> (7.000 identificadores generados y mutados), TypeScript estricto, cobertura del 98 % e integración continua en Node 18 a 24.</p>
