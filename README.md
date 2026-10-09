@@ -68,10 +68,10 @@ const hodei = {
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <a href="https://github.com/hodeione/reservas-n8n"><img src="assets/reservas-n8n.png" alt="Web del restaurante con carta en 3D" /></a>
-      <h3><a href="https://github.com/hodeione/reservas-n8n">🍽️ reservas-n8n</a> · <sub>reservas con plano de mesas y carta 3D</sub></h3>
-      <p><b>Web, reservas y carta digital para restaurantes, con n8n como backend:</b> el cliente <b>elige su mesa en el plano del local</b>, ve los platos <b>en 3D y en realidad aumentada</b> sobre su mesa, y recibe confirmación y recordatorio. La <b>lista de espera hereda sola las mesas canceladas</b>, se piden reseñas en Google y hay API para un <b>recepcionista de IA</b>. El restaurante lo gestiona todo desde un panel sin código: sala en vivo, editor del plano por arrastre, carta y horarios.</p>
-      <p>React + TypeScript, 7 flujos de n8n generados por código, Docker Compose (PostgreSQL + Caddy HTTPS) y <b>71 pruebas de principio a fin</b> que verifican cada email y cada dato.</p>
+      <a href="https://taberna-luna-dht.vercel.app"><img src="assets/reservas-n8n.webp" alt="Pulpo en 3D servido sobre un plato real con realidad aumentada" /></a>
+      <h3><a href="https://github.com/hodeione/reservas-n8n">🍽️ reservas-n8n</a> · <sub>carta 3D con realidad aumentada y reservas</sub></h3>
+      <p><b>Web, reservas y carta con platos reales en 3D para restaurantes, con n8n de backend.</b> Apunta el móvil a un <b>plato vacío y te sirve el plato encima</b> (detector de platos propio, sin ARCore ni ARKit). El cliente <b>elige mesa en el plano</b>; si alguien cancela, la mesa pasa sola a la lista de espera; si va a llover, la terraza se recoge y se avisa a cada cliente. Panel sin código para el dueño y diez automatizaciones.</p>
+      <p><a href="https://taberna-luna-dht.vercel.app"><b>▶ Demo en vivo</b></a> · React + TypeScript + three.js, 10 flujos de n8n generados por código, Docker (PostgreSQL + Caddy) y <b>79 pruebas de principio a fin</b>.</p>
       <p>
         <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
