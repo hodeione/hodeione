@@ -68,6 +68,23 @@ const hodei = {
   </tr>
   <tr>
     <td colspan="2" valign="top">
+      <a href="https://dht-recepcionista.vercel.app"><img src="assets/recepcionista.png" alt="Llamada a la recepcionista IA de Taberna Luna" /></a>
+      <h3><a href="https://github.com/hodeione/recepcionista">📞 Recepcionista IA</a> · <sub>agente de voz · nuevo</sub></h3>
+      <p><b>Una recepcionista de voz que coge el teléfono del restaurante, reserva, cancela y responde dudas.</b> Llamas desde el navegador, le hablas como a una persona («somos cuatro el sábado a las nueve, uno es celíaco») y la reserva aparece al momento en el panel del dueño, con mesa asignada y la transcripción de la llamada.</p>
+      <p><b>Claude Haiku 5.5</b> con cinco herramientas y respuesta en streaming que se dice frase a frase; oído con el reconocimiento del navegador o <b>Whisper en local con WebGPU</b> y detector de voz propio; y, sin IA, un <b>motor de diálogo propio</b> que entiende fechas, horas y comensales en castellano hablado. Usa el motor de reservas de reservas-n8n y tiene <b>104 pruebas</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Claude_Haiku_5.5-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+        <img src="https://img.shields.io/badge/Whisper_·_WebGPU-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Web_Speech_API-005A9C?style=flat-square&logo=googlechrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel_Functions-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+      <a href="https://dht-recepcionista.vercel.app"><b>▶ Llamar a Taberna Luna</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <a href="https://taberna-luna-dht.vercel.app"><img src="assets/reservas-n8n.webp" alt="Pulpo en 3D servido sobre un plato real con realidad aumentada" /></a>
       <h3><a href="https://github.com/hodeione/reservas-n8n">🍽️ reservas-n8n</a> · <sub>carta 3D con realidad aumentada y reservas</sub></h3>
       <p><b>Web, reservas y carta con platos reales en 3D para restaurantes, con n8n de backend.</b> Apunta el móvil a un <b>plato vacío y te sirve el plato encima</b> (detector de platos propio, sin ARCore ni ARKit). El cliente <b>elige mesa en el plano</b>; si alguien cancela, la mesa pasa sola a la lista de espera; si va a llover, la terraza se recoge y se avisa a cada cliente. Panel sin código para el dueño y diez automatizaciones.</p>
