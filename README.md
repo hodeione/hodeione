@@ -85,6 +85,22 @@ const hodei = {
   </tr>
   <tr>
     <td colspan="2" valign="top">
+      <a href="https://dht-radiografia.vercel.app"><img src="assets/radiografia.png" alt="Informe de la Radiografía web" /></a>
+      <h3><a href="https://github.com/hodeione/radiografia">🩻 Radiografía web</a> · <sub>auditor de webs · nuevo</sub></h3>
+      <p><b>¿Tu web te trae clientes o te los quita?</b> Escribes la dirección de la web de un negocio y en segundos tienes un informe en castellano llano: captar clientes, Google y SEO local, velocidad, <b>legal en España (LSSI, RGPD y cookies)</b>, móvil y accesibilidad. Cada fallo explica cuántos clientes cuesta y cómo se arregla, con una maqueta de la portada mejorada con el logo y los colores del negocio.</p>
+      <p>Análisis sin navegador en el servidor (HTML, cabeceras, peso real de cada imagen, certificado, robots.txt), <b>descargas protegidas contra SSRF</b> en cada redirección, progreso en streaming, detección de tipo de negocio, ciudad, colores y CMS. Claude Haiku 5.5 y Google Lighthouse opcionales.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel_Functions-000000?style=flat-square&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Claude_Haiku_5.5-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+        <img src="https://img.shields.io/badge/Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white" />
+      </p>
+      <a href="https://dht-radiografia.vercel.app"><b>▶ Analizar una web</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <a href="https://taberna-luna-dht.vercel.app"><img src="assets/reservas-n8n.webp" alt="Pulpo en 3D servido sobre un plato real con realidad aumentada" /></a>
       <h3><a href="https://github.com/hodeione/reservas-n8n">🍽️ reservas-n8n</a> · <sub>carta 3D con realidad aumentada y reservas</sub></h3>
       <p><b>Web, reservas y carta con platos reales en 3D para restaurantes, con n8n de backend.</b> Apunta el móvil a un <b>plato vacío y te sirve el plato encima</b> (detector de platos propio, sin ARCore ni ARKit). El cliente <b>elige mesa en el plano</b>; si alguien cancela, la mesa pasa sola a la lista de espera; si va a llover, la terraza se recoge y se avisa a cada cliente. Panel sin código para el dueño y diez automatizaciones.</p>
