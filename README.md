@@ -85,6 +85,23 @@ const hodei = {
   </tr>
   <tr>
     <td colspan="2" valign="top">
+      <a href="https://dht-whatsapp.vercel.app"><img src="assets/whatsapp-ia.png" alt="Asistente de WhatsApp con IA de Taberna Luna" /></a>
+      <h3><a href="https://github.com/hodeione/whatsapp-ia">💬 WhatsApp IA</a> · <sub>asistente para restaurantes · nuevo</sub></h3>
+      <p><b>Tu restaurante, también por WhatsApp.</b> Reserva con botones y listas nativas de WhatsApp, manda la tarjeta de confirmación con calendario, recuerda la reserva el día antes con «Allí estaré / Cancelar», <b>llena las cancelaciones con la lista de espera</b> y pide la reseña al día siguiente (con las quejas por privado).</p>
+      <p>Una sola lógica para la demo en el navegador y para los webhooks de <b>WhatsApp Cloud API (Meta)</b> y <b>Twilio</b>: firmas validadas, respuesta en segundo plano, plantillas para escribir primero, cron diario y estado en Upstash Redis. Claude Haiku 5.5 o motor de reglas propio. <b>91 pruebas</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+        <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" />
+        <img src="https://img.shields.io/badge/Claude_Haiku_5.5-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+        <img src="https://img.shields.io/badge/Upstash_Redis-00E9A3?style=flat-square&logo=upstash&logoColor=black" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+      <a href="https://dht-whatsapp.vercel.app"><b>▶ Escribir a Taberna Luna</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <a href="https://dht-radiografia.vercel.app"><img src="assets/radiografia.png" alt="Informe de la Radiografía web" /></a>
       <h3><a href="https://github.com/hodeione/radiografia">🩻 Radiografía web</a> · <sub>auditor de webs · nuevo</sub></h3>
       <p><b>¿Tu web te trae clientes o te los quita?</b> Escribes la dirección de la web de un negocio y en segundos tienes un informe en castellano llano: captar clientes, Google y SEO local, velocidad, <b>legal en España (LSSI, RGPD y cookies)</b>, móvil y accesibilidad. Cada fallo explica cuántos clientes cuesta y cómo se arregla, con una maqueta de la portada mejorada con el logo y los colores del negocio.</p>
